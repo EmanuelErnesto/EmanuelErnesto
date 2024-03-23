@@ -23,8 +23,3 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelErnesto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmanuelErnesto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-### ✨ Principais Projetos
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelErnesto&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EmanuelErnesto/dio-lab-open-source.git)
-[![Repo DIO Estacionamento](https://github-readme-stats.vercel.app/api/pin/?username=EmanuelErnesto&repo=trilha-net-fundamentos-desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EmanuelErnesto/trilha-net-fundamentos-desafio.git)
