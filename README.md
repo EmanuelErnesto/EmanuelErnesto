@@ -40,7 +40,7 @@
 
 ### 📫 **Vamos Conversar?**  
 - 💼 LinkedIn: [Emanuel Ernesto](https://www.linkedin.com/in/emanuel-ernesto-6b5a5726b/) 
-- 📧 E-mail: emanuel.ernesto@gmail.com  
+- 📧 E-mail: emanuel.earego@gmail.com  
 - 📷 Instagram: [emanuel.ernesto1](https://www.instagram.com/emanuel.ernesto1?igsh=bmJiaDV6c3phbjl3)
 - 🌐 Portfólio: *(em construção!)*  
 
