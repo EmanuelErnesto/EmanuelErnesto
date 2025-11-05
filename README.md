@@ -23,3 +23,4 @@ Sou **Desenvolvedor Backend** com mais de 1 ano de experiência no desenvolvimen
 ## 📫 Contatos
 - ✉️ [email](mailto:emanuel.earego@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/emanuel-ernesto-6b5a5726b/)  
+- 📷 [Instagram](https://www.instagram.com/emanuel.ernesto1/)
